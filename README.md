@@ -1,4 +1,4 @@
-# 🚀 Conveyor nip-point hand intrusion detection
+# Conveyor nip-point hand intrusion detection
 
 This repository contains my complete work during the Computer Vision Internship program under IIITH iHub-Data. The project focuses on building an end-to-end object detection pipeline using YOLO, including dataset creation, labeling, training, evaluation, and real-world inference.
 
@@ -11,7 +11,7 @@ To build an AI-based object detection system capable of detecting:
 - ✋ Human Hand  
 - ⚠️ Danger Zone (Industrial Conveyor Safety Region)
 
-# 🧠 Key Highlights
+# Key Highlights
 
 - End-to-end computer vision pipeline  
 - Video → frames → dataset → training → inference  
@@ -84,15 +84,7 @@ Week-5/  → Final inference & testing
 # 🟪 Week 5
 - Inference on conveyor video  
 - Bounding box predictions  
-- Final output video generation  
-
-# 📷 Screenshots
-
-- Dataset structure  
-- Label Studio interface  
-- Training curves  
-- Confusion matrix  
-- Final output video frames  
+- Final output video generation    
 
 # ⚙️ How to Run
 
@@ -112,20 +104,20 @@ pip install -r requirements.txt
 yolo detect predict model=best.pt source=Week-5/video.mp4
 ```
 
-# 📦 Important Files
+# Important Files
 
 - best.pt → final trained model  
 - dataset.yaml → dataset config  
 - week04_report.pdf → internship report  
 - conveyor.mp4 → test video  
 
-# ⚠️ Challenges
+# Challenges
 
 - Small dataset size  
 - Label inconsistency early stage  
 - Large GitHub file handling  
 
-# 🚀 Final Outcome
+# Final Outcome
 
 A working object detection system capable of detecting:
 
