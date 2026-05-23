@@ -1,0 +1,10 @@
+path: /Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset
+
+train: images/train
+val: images/val
+
+nc: 2
+
+names:
+  0: danger_zone
+  1: hand
