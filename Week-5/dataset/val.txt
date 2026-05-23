@@ -1,0 +1,17 @@
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0162.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0002.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0012.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0212.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0102.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0062.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0072.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0042.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0122.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0242.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0092.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0132.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0182.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0222.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0152.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0032.jpg
+/Users/srikoushikreddy/Documents/IIITH internship/Week-4/dataset/images/val/frame_0192.jpg
